@@ -1,0 +1,16 @@
+.result {
+  text-align: center;
+  font-size: 3rem;
+  border: 1px solid green;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.copy-btn {
+  align-self: center;
+  margin-left: 1rem;
+}

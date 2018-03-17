@@ -1,0 +1,19 @@
+.btn-margin {
+  margin: 7px 3px;
+}
+
+.navbar-default {
+
+}
+
+.container-fluid {
+  width: 100%;
+
+}
+
+.navbar-header {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+
+}
